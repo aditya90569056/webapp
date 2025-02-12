@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gsap": "^3.12.7",
+    "motion": "^12.4.2"
+  }
+}
